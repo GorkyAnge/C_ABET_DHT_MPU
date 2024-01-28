@@ -1,6 +1,11 @@
 # Proyecto de Monitoreo de Temperatura, Humedad y Giroscopio con Arduino y Python
 
-Bienvenido al repositorio del proyecto de monitoreo de temperatura, humedad y datos del giroscopio utilizando Arduino y Python. Este proyecto te permite construir y desplegar un sistema de recopilación y visualización de datos ambientales en tiempo real.
+Bienvenido al repositorio del proyecto de monitoreo de temperatura, humedad y datos del giroscopio utilizando Arduino y Python. Este proyecto fue creado por:
+
+- Doménica Arcos
+- Liseth Abad
+- Nicolás García
+- Gorky Palacios
 
 ## Contenido del Repositorio
 
