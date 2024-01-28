@@ -10,14 +10,6 @@ Bienvenido al repositorio del proyecto de monitoreo de temperatura, humedad y da
 
 - **GraficarDatos.py**: Este script en Python utiliza el método GET para recuperar los datos almacenados en la base de datos y generar dos gráficas. Una muestra la evolución de la temperatura y la humedad, mientras que la otra representa los datos del giroscopio en los ejes x, y, y z.
 
-## Configuración del Entorno
-
-1. **Arduino Setup**: Carga el código en el Arduino y asegúrate de tener correctamente conectados el sensor DHT y el módulo MPU a la protoboard.
-
-2. **Azure Database Configuration**: Configura tu base de datos en Azure y actualiza las credenciales en el script `data_collector.py` para asegurar la conexión correcta.
-
-3. **Dependencias de Python**: Asegúrate de tener instaladas las bibliotecas necesarias. Puedes instalarlas ejecutando `pip install -r requirements.txt` en tu entorno virtual.
-
 ## Uso
 
 1. Ejecuta `PostDatos.py` para comenzar la recopilación y envío de datos desde Arduino a Azure.
